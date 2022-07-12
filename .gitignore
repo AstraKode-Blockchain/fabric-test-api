@@ -1,3 +1,4 @@
 /node_modules
 .DS_Store
 /chaincode/node_modules
+/chaincode/.DS_Store
